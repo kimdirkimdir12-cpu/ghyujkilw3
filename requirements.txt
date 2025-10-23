@@ -1,0 +1,6 @@
+flask
+telethon
+requests
+aiohttp
+asyncio
+gunicorn
